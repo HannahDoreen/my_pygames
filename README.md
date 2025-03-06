@@ -1,6 +1,6 @@
 "# my_pygames" 
 
-# DVD Screensaver in Python
+# Screensaver in Python
 
 This project is a simple recreation of the classic DVD bouncing logo screensaver using Python and Pygame.
 
@@ -23,7 +23,7 @@ pip install pygame
 ## Usage
 Run the script with:
 ```sh
-python dvd_screensaver.py
+python screensaver.py
 ```
 
 ## Code Overview
