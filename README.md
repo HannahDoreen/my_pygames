@@ -5,7 +5,7 @@
 This project is a simple recreation of the classic DVD bouncing logo screensaver using Python and Pygame.
 
 ## Features
-- A DVD-style logo that bounces around the screen.
+- a logo or shape that bounces around the screen.
 - Changes color when hitting the edges.
 - Adjustable speed and window size.
 
